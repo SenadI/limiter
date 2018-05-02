@@ -1,0 +1,7 @@
+address: :8080
+limit: 5
+duration: 6s
+redis:
+    address: :6379
+    password: 
+    db: 0
